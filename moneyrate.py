@@ -1,3 +1,4 @@
+#환율
 money = int(input('환전하고자 하는 금액을 입력하세요 : '))
 usd = money / 1141.50
 aud = money / 905.15
