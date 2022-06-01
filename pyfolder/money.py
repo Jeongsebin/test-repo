@@ -1,4 +1,4 @@
-money=int(input('교환할 돈은 얼마 ? '))
+money=int(input('교환할 돈은 얼마입니까?: '))
 
  a=money//50000
 b=(money%50000)//10000
